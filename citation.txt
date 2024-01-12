@@ -1,0 +1,7 @@
+@inproceedings{REPO185,
+    author = "Liu, Fengbei and Tian, Yu and Chen, Yuanhong and Liu, Yuyuan and Belagiannis, Vasileios and Carneiro, Gustavo",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "20697--20706",
+    title = "{ACPL: Anti-Curriculum Pseudo-Labelling for Semi-Supervised Medical Image Classification}",
+    year = "2022"
+}
